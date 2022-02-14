@@ -164,7 +164,6 @@ Observe que alguns métodos já possuem parte do código inserido para indicar q
 
 ## 📝 Feito por Jackson Antunes
 
-  ##
 <div>
   <a href="https://www.linkedin.com/in/jackson-antunes-143318182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
