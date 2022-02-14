@@ -6,10 +6,6 @@
 	Desafio para implementar consultas da biblioteca TypeOrm de uma aplicação do curso Ignite Node.JS da RocketSeat 
 </h4>
 
-<p align="center">
-  <img alt="Repository size" src="https://img.shields.io/static/v1?label=Last%20commit&message=September&color=yellowgreen&style=for-the-badge&logo=Slack">
-</p>
-
 # 💻 Sobre o desafio
 
 Nesse desafio, você realizará consultas no banco de dados com o TypeORM de três maneiras:
@@ -168,7 +164,11 @@ Observe que alguns métodos já possuem parte do código inserido para indicar q
 
 ## 📝 Feito por Jackson Antunes
 
-👋🏽👋🏽👋🏽👋🏽 [contato!](https://www.linkedin.com/in/jackson-antunes-143318182/)
+  ##
+<div>
+  <a href="https://www.linkedin.com/in/jackson-antunes-143318182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 
 [nodejs]: https://nodejs.org/
 [express]: https://expressjs.com/pt-br/
